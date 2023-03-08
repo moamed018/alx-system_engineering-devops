@@ -1,6 +1,3 @@
 #!/bin/bash
-
-path= $(which pwd)
-
-echo $pathh
+echo $(pwd)
 
